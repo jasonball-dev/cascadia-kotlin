@@ -84,7 +84,7 @@ A detailed guide is available in **HowToPlay.pdf**.
 
 - **Language:** Kotlin  
 - **Build Tool:** Gradle  
-- **IDE:** IntelliJ IDEA  
+- **IDE:** IntelliJ IDEA
 - **Version Control:** GitLab
 - **Team Size:** 8 developers
 
